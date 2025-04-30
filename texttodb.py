@@ -33,8 +33,8 @@ def convert_text_to_sqlite(text_file, sqlite_file):
         print(f"Error converting text to SQLite: {e}")
 
 def send_completion_message():
-    github_account = "https://github.com/jumbubly"
-    cracked_account = "https://cracked.io/rekingg"
+    github_account = "https://github.com/shaniidev"
+    cracked_account = "https://cracked.sh/rekingg"
 
     # Replace this with your preferred method of sending a message to the user
     # You can use email, SMS, push notification, or any other communication method
