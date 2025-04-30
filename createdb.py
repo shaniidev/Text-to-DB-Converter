@@ -26,8 +26,8 @@ def create_database():
         print(f"Error creating database: {e}")
 
 def send_completion_message():
-    github_account = "https://github.com/jumbubly"
-    cracked_account = "https://cracked.io/rekingg"
+    github_account = "https://github.com/shaniidev"
+    cracked_account = "https://cracked.sh/rekingg"
 
     # Replace this with your preferred method of sending a message to the user
     # You can use email, SMS, push notification, or any other communication method
